@@ -1,7 +1,7 @@
 {
   "monday": [
     {
-      "time": "5:00 PM",
+      "time": "7:13 AM",
       "subject": "LOGIN - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4B",
       "type": "LOGIN"
     },
@@ -37,7 +37,7 @@
   ],
   "sunday": [
     {
-      "time": "4:39 PM",
+      "time": "6:30 PM",
       "subject": "LOGIN - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4WA",
       "type": "LOGIN"
     },
@@ -46,5 +46,5 @@
       "subject": "LOGOUT - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4WA",
       "type": "LOGOUT"
     }
-  ]
+  ]  
 }
