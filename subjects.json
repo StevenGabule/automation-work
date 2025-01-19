@@ -1,0 +1,50 @@
+{
+  "monday": [
+    {
+      "time": "5:00 PM",
+      "subject": "LOGIN - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4B",
+      "type": "LOGIN"
+    },
+    {
+      "time": "10:05 PM",
+      "subject": "LOGOUT - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4B",
+      "type": "LOGOUT"
+    }
+  ],
+  "wednesday": [
+    {
+      "time": "5:00 PM",
+      "subject": "LOGIN - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4A",
+      "type": "LOGIN"
+    },
+    {
+      "time": "10:05 PM",
+      "subject": "LOGOUT - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4A",
+      "type": "LOGOUT"
+    }
+  ],
+  "saturday": [
+    {
+      "time": "5:00 PM",
+      "subject": "LOGIN - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4NA",
+      "type": "LOGIN"
+    },
+    {
+      "time": "10:05 PM",
+      "subject": "LOGOUT - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4NA",
+      "type": "LOGOUT"
+    }
+  ],
+  "sunday": [
+    {
+      "time": "4:39 PM",
+      "subject": "LOGIN - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4WA",
+      "type": "LOGIN"
+    },
+    {
+      "time": "4:53 PM",
+      "subject": "LOGOUT - ME 4 IT MAJOR ELECTIVE 4 - BSIT-4WA",
+      "type": "LOGOUT"
+    }
+  ]
+}

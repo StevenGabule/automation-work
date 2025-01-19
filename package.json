@@ -1,0 +1,24 @@
+{
+  "name": "aclc_employee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/tesseract.js": "^0.0.2",
+    "dayjs": "^1.10.7",
+    "dotenv": "^10.0.0",
+    "moment": "^2.29.1",
+    "nanoid": "^3.1.30",
+    "pino": "^7.1.0",
+    "pino-pretty": "^7.2.0",
+    "puppeteer": "^24.1.0",
+    "set-interval-async": "^2.0.3",
+    "tesseract.js": "^6.0.0"
+  }
+}
